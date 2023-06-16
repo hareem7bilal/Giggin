@@ -1,0 +1,400 @@
+; This is the Calva evaluation results output window.
+; TIPS: The keyboard shortcut `ctrl+alt+o o` shows and focuses this window
+;   when connected to a REPL session.
+; Please see https://calva.io/output/ for more info.
+; Happy coding! ♥️
+
+; Connecting ...
+; Reading port file: file:///c%3A/Users/Toshiba/Desktop/giggin/.nrepl-port ...
+; No nrepl port file found.
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉shadow.user꞉>  ; Use `alt+enter` to evaluate
+clj꞉shadow.user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: ClojureScript nREPL Server...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.cljs'
+; Syntax error (IllegalArgumentException) compiling try at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:19:1).
+; Unable to resolve classname: :default
+cljs꞉cljs.user꞉>  ; Use `alt+enter` to evaluate
+*ns*
+#object[clojure.lang.Namespace 0x6f5f3f35 "user"]
+cljs꞉user꞉> 
+(+ 1 1)
+2
+cljs꞉user꞉> 
+(shadow.cljs.devtools.api/nrepl-select :app)
+To quit, type: :cljs/quit
+[:selected :app]
+cljs꞉cljs.user꞉> 
+(ns giggin.state
+  (:require [reagent.core :as r]))
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+*ns*
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+*ns*
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+*ns*
+nil
+cljs꞉cljs.user꞉> 
+; Connecting using "ClojureScript nREPL Server" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+; Connecting ...
+; Reading port file: file:///c%3A/Users/Toshiba/Desktop/giggin/.nrepl-port ...
+; No nrepl port file found.
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉shadow.user꞉> 
+clj꞉shadow.user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: ClojureScript nREPL Server...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.cljs'
+; Syntax error (IllegalArgumentException) compiling try at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:80:1).
+; Unable to resolve classname: :default
+cljs꞉cljs.user꞉> 
+*ns*; nREPL Connection was closed
+; Connecting using "ClojureScript nREPL Server" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+; Connecting ...
+; Reading port file: file:///c%3A/Users/Toshiba/Desktop/giggin/.nrepl-port ...
+; No nrepl port file found.
+; Hooking up nREPL sessions ...
+; Connecting using "ClojureScript nREPL Server" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+; Connecting ...
+; Reading port file: file:///c%3A/Users/Toshiba/Desktop/giggin/.nrepl-port ...
+; No nrepl port file found.
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉shadow.user꞉> 
+clj꞉shadow.user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: ClojureScript nREPL Server...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.cljs'
+; Syntax error (IllegalArgumentException) compiling try at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:120:1).
+; Unable to resolve classname: :default
+cljs꞉cljs.user꞉> 
+*ns*
+#object[clojure.lang.Namespace 0x667f4987 "user"]
+cljs꞉user꞉> 
+(shadow.cljs.devtools.api/nrepl-select :app)
+To quit, type: :cljs/quit
+[:selected :app]
+cljs꞉cljs.user꞉> 
+(ns giggin.state
+  (:require [reagent.core :as r]))
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+*ns*
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+; nREPL Connection was closed
+; Connecting using "ClojureScript nREPL Server" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+; Connecting ...
+; Reading port file: file:///c%3A/Users/Toshiba/Desktop/giggin/.nrepl-port ...
+; No nrepl port file found.
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉shadow.user꞉> 
+clj꞉shadow.user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: ClojureScript nREPL Server...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.cljs'
+; Syntax error (IllegalArgumentException) compiling try at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:169:1).
+; Unable to resolve classname: :default
+cljs꞉cljs.user꞉> (+ 1 1)
+2
+cljs꞉user꞉> 
+*ns*
+#object[clojure.lang.Namespace 0x62333f3b "user"]
+cljs꞉user꞉> 
+(shadow.cljs.devtools.api/nrepl-select :app)
+To quit, type: :cljs/quit
+[:selected :app]
+cljs꞉cljs.user꞉> 
+(ns giggin.state (:require [reagent.core :as r]))
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+(+ 1 1)
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+cljs꞉cljs.user꞉> 
+; nREPL Connection was closed
+; Connecting using "ClojureScript nREPL Server" project type.
+; You can make Calva auto-select this.
+;   - See https://calva.io/connect-sequences/
+; 
+; Connecting ...
+; Reading port file: file:///c%3A/Users/Toshiba/Desktop/giggin/.nrepl-port ...
+; No nrepl port file found.
+; Hooking up nREPL sessions ...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.clj'
+nil
+clj꞉shadow.user꞉> 
+clj꞉shadow.user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: ClojureScript nREPL Server...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Evaluating code from settings: 'calva.autoEvaluateCode.onConnect.cljs'
+; Syntax error (IllegalArgumentException) compiling try at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:220:1).
+; Unable to resolve classname: :default
+cljs꞉cljs.user꞉> 
+(+ 1 1)
+2
+cljs꞉user꞉> 
+*ns*
+#object[clojure.lang.Namespace 0x7935b11c "user"]
+cljs꞉user꞉> 
+(ns giggin.core)
+nil
+cljs꞉giggin.core꞉> 
+(ns giggin.state (:require [reagent.core :as r]))
+nil
+cljs꞉giggin.state꞉> 
+@giggin.state/orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> 
+@orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.state꞉> 
+orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.state꞉> 
+@orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.state꞉> 
+@giggin.state/orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> giggin.state/orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> (@orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:269:21).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.state꞉> (@giggin.state/orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:272:21).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> 
+*ns*
+#object[clojure.lang.Namespace 0xbebe3a4 "giggin.state"]
+cljs꞉giggin.state꞉> 
+(+ 1 2 3)
+6
+cljs꞉giggin.state꞉> 
+(println 1)
+1
+nil
+cljs꞉giggin.state꞉> 
+1
+1
+cljs꞉giggin.state꞉> 
+(println @orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:289:1).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.sta
+; Syntax error (ClassNotFoundException) compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; cljs꞉giggin.sta
+cljs꞉giggin.state꞉> 
+; Syntax error (ClassNotFoundException) compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; cljs꞉giggin.sta
+cljs꞉giggin.state꞉> 
+find-var
+#object[clojure.core$find_var 0x3cc0f646 "clojure.core$find_var@3cc0f646"]
+cljs꞉giggin.state꞉> 
+var
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; Unable to resolve symbol: var in this context
+
+cljs꞉giggin.state꞉> 
+
+(def var 6)
+#'giggin.state/var
+cljs꞉giggin.state꞉> 
+#'giggin.state/var
+cljs꞉giggin.state꞉> 
+(var)
+; Syntax error (NullPointerException) compiling var at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:313:1).
+; Cannot read field "ns" because "sym" is null
+cljs꞉giggin.state꞉> find-var
+#object[clojure.core$find_var 0x3cc0f646 "clojure.core$find_var@3cc0f646"]
+cljs꞉giggin.state꞉> 
+
+find-var
+#object[clojure.core$find_var 0x3cc0f646 "clojure.core$find_var@3cc0f646"]
+cljs꞉giggin.state꞉> 
+
+cljs꞉giggin.state꞉> 
+println(var)
+; Syntax error (NullPointerException) compiling var at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:325:8).
+; Cannot read field "ns" because "sym" is null
+cljs꞉giggin.state꞉> @orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.state꞉>   @orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; Unable to resolve symbol: orders in this context
+cljs꞉giggin.state꞉> (giggin.state/orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:334:21).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> @(giggin.state/orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:337:22).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> (@giggin.state/orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:340:21).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> @giggin.state/orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; No such var: giggin.state/orders
+cljs꞉giggin.state꞉> (in-ns 'user)
+#object[clojure.lang.Namespace 0x7935b11c "user"]
+cljs꞉user꞉> 
+@giggin.state/orders
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; No such var: giggin.state/orders
+cljs꞉user꞉> 
+(@giggin.state/orders)
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:353:1).
+; No such var: giggin.state/orders
+cljs꞉user꞉> (ns giggin.state (:require [reagent.core :as r]))
+nil
+cljs꞉giggin.state꞉>  (def my-favorite-number 42)
+#'giggin.state/my-favorite-number
+cljs꞉giggin.state꞉> 
+#'giggin.state/my-favorite-number
+#'giggin.state/my-favorite-number
+cljs꞉giggin.state꞉> 
+myapp.foo.bar/my-favorite-number
+; Syntax error (ClassNotFoundException) compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:0:0).
+; myapp.foo.bar
+cljs꞉giggin.state꞉> 
+giggin.state/my-favorite-number
+42
+cljs꞉giggin.state꞉> 
+(def orders (r/atom {}))
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:371:13).
+; No such var: r/atom
+cljs꞉giggin.state꞉> 
+(ns giggin.state
+  (:require [reagent.core :as r]))
+nil
+cljs꞉giggin.state꞉> 
+(def orders (reagent.core/atom {}))
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:379:13).
+; No such var: r/atom
+cljs꞉giggin.state꞉> (def orders (reagent.core/atom {}))
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:382:33).
+; No such var: reagent.core/atom
+cljs꞉giggin.state꞉> (ns giggin.state
+                      (:require [reagent.core/atom :as a]))
+; Syntax error macroexpanding clojure.core/ns at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:385:21).
+; ((:require [reagent.core/atom :as a])) - failed: Extra input spec: :clojure.core.specs.alpha/ns-form
+cljs꞉giggin.state꞉>  (:require [reagent.core/atom :as a])
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:389:22).
+; No such var: reagent.core/atom
+cljs꞉giggin.state꞉> 
+(ns giggin.state
+  (:require [reagent.core :as reagent]))
+nil
+cljs꞉giggin.state꞉> 
+(def my-atom (reagent/atom 0))
+; Syntax error compiling at (c:\Users\Toshiba\Desktop\giggin\.calva\output-window\output.calva-repl:397:14).
+; No such var: reagent/atom
+cljs꞉giggin.state꞉> 
